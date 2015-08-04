@@ -1,0 +1,15 @@
+
+.spacing {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.vertical-center {
+  background-color: #22ae8b;
+  min-height: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
