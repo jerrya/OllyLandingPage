@@ -26,7 +26,7 @@ Email: $email
 mail($myemail, $subject, $message);
 
 /* Redirect visitor to the thank you page */
-header('Location: http://google.com');
+header('Location: thanks.html');
 exit();
 
 /* Functions we used */
